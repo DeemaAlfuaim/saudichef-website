@@ -1,5 +1,5 @@
 # saudichef-website
-IT320 Course Project : website that sells Saudi traditional meal kits.
+IT320 Course Project : SaudiChef is a website that sells Saudi traditional meal kits.
 This Project is for multilevel users : Admin and Customer.
 
 It provide login system for Admin.
