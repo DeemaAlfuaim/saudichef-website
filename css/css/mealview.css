@@ -1,0 +1,91 @@
+
+.imagepos{
+	
+	position: relative;
+	right: -630px;
+	
+
+}
+
+
+.textstyle dt{
+	
+	
+	font-family: 'popons', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    
+    margin: auto;
+    color: #e28743;
+   position: relative;
+   right: -100px;
+    text-decoration: none;
+   	
+	
+	
+	
+}
+
+
+
+
+.textstyle dd{
+	
+	
+	font-family: 'popons', sans-serif;
+    font-size: 15px;
+	color:#6a995a;
+	
+		
+	 width: 80%;
+  padding: 8px;
+  border: 5px solid ;
+  margin: 0 auto;
+  text-align: initial;
+	
+	
+	
+	
+}
+
+
+
+#customize{
+	
+	
+	position: left;
+	position: relative;
+	left: 150px;
+ 
+	
+	display: grid;
+    
+	font-family: 'popons', sans-serif;
+    font-size: 15px;
+	color:#6a995a;
+	
+	
+}
+
+
+
+#addtocart{
+	
+	width: 90px;
+    height: 30px;
+    display: inline-block;
+    padding: 10px 15px 10px 10px;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #83acf6;
+    border: none;
+    border-radius: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+	
+	
+}
